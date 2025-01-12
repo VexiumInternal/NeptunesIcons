@@ -9,3 +9,6 @@ Builder = ![icons8-build-18](https://github.com/user-attachments/assets/d330dd78
 Vision = ![icons8-vision-18(1)](https://github.com/user-attachments/assets/a2b480aa-0935-41c7-b486-02d126105f8b)
 Stats = ![icons8-chart-18](https://github.com/user-attachments/assets/c1dd3e0b-f62a-4904-94f9-49a4f9e25088)
 Settings = ![icons8-gears-24](https://github.com/user-attachments/assets/075b50ca-aa56-47d0-b3e3-d8b73e815f26)
+Binoculars = ![icons8-binoculars-18](https://github.com/user-attachments/assets/258878c8-5522-48c4-83e6-52f1c20e1ec1)
+Hoop = ![icons8-basketball-net-18](https://github.com/user-attachments/assets/9a243696-0003-4462-8003-4c4393a48f86)
+SMG = ![icons8-gun-18](https://github.com/user-attachments/assets/893c432e-15bf-4950-9034-cd61ab21e951)
