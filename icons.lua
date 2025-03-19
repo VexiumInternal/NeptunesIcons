@@ -12,7 +12,7 @@ local Icons = {
   SMG = "rbxassetid://133867507665599",
   Sword = "rbxassetid://133342780735279",
   Farm = "rbxassetid://120335077909582",
-  Eye = "rbxassetid://120335077909582",
+  Eye = "rbxassetid://135733817790875",
   Crosshair = "rbxassetid://98672881734356",
   Notification = "rbxassetid://104063607158538",
   Check_Mark = "rbxassetid://80814676009246",
@@ -21,7 +21,13 @@ local Icons = {
   Shield = "rbxassetid://73036466836450",
   Arcade = "rbxassetid://90059988395975",
   Controller = "rbxassetid://108539943689032",
-  Archer = "rbxassetid://85827952544134"
+  Archer = "rbxassetid://85827952544134",
+  NoFog = "rbxassetid://87744608757178",
+  No = "rbxassetid://77866897460486",
+  Fly = "rbxassetid://79600458639979",
+  Speed = "rbxassetid://130575877373258",
+  Noclip = "rbxassetid://83280124851961",
+  Jump = "rbxassetid://139582915971544",
 }
 
 return Icons
