@@ -29,3 +29,7 @@ Fly = ![icons8-jetpack-18](https://github.com/user-attachments/assets/ebd66833-7
 Speed = ![icons8-exercise-18](https://github.com/user-attachments/assets/3f39b417-1a67-4ce9-8008-d683ae64f604)  
 Noclip = ![icons8-move-through-18](https://github.com/user-attachments/assets/738311de-8e15-445a-bd89-de960941b214)  
 Jump = ![icons8-jump-18](https://github.com/user-attachments/assets/21f1a6d5-a5db-48ad-a61c-6d63b1c3bf67)  
+Magnet = ![icons8-magnet-18(2)](https://github.com/user-attachments/assets/9d70ed7a-8825-46bb-bfd9-3ad98f8f339f)  
+Dribble = ![icons8-dribble-18](https://github.com/user-attachments/assets/d2043103-c9aa-41f4-b908-d86e4e497c3b)  
+Ball_On_Rim = ![icons8-basketball-18(1)](https://github.com/user-attachments/assets/b7ae7121-2686-4799-8260-617f1e3b748a)  
+Reach = ![icons8-reach-18](https://github.com/user-attachments/assets/505bf6da-3cb8-4e46-b332-2292b56029c4)  
