@@ -1,4 +1,4 @@
-local Icons = {
+local Icons = { -- 18x18 pixels
   Home = "rbxassetid://97154352432811",
   Toolbox = "rbxassetid://106761815787324",
   Edit = "rbxassetid://104571990756723",
@@ -28,6 +28,10 @@ local Icons = {
   Speed = "rbxassetid://130575877373258",
   Noclip = "rbxassetid://83280124851961",
   Jump = "rbxassetid://139582915971544",
+  Magnet = "rbxassetid://118874140867224",
+  Dribble = "rbxassetid://117118569780768",
+  Ball_On_Rim = "rbxassetid://95414900988121",
+  Reach = "rbxassetid://136788759880139",
 }
 
 return Icons
