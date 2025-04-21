@@ -30,7 +30,7 @@ local Icons = { -- 18x18 pixels
   Jump = "rbxassetid://139582915971544",
   Magnet = "rbxassetid://118874140867224",
   Dribble = "rbxassetid://117118569780768",
-  Ball_On_Rim = "rbxassetid://95414900988121",
+  Shooting_Ball = "rbxassetid://125956451445248",
   Reach = "rbxassetid://136788759880139",
 }
 
